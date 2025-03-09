@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Murad</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-<img alt="photo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hZt4QxRFIJjzdCbIyzH8mbpacC9Sh1B7NA&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad-yusifov&label=Profile%20views&color=0e75b6&style=flat" alt="murad-yusifov" /> </p>
 
 - 📫 How to reach me **muradyusifov969@gmail.com**
+
+- <img alt="photo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hZt4QxRFIJjzdCbIyzH8mbpacC9Sh1B7NA&s">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
