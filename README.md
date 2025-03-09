@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Murad</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 <img alt="photo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hZt4QxRFIJjzdCbIyzH8mbpacC9Sh1B7NA&s">
