@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **muradyusifov969@gmail.com**
 
-- <img alt="photo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hZt4QxRFIJjzdCbIyzH8mbpacC9Sh1B7NA&s">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
